@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elodie.duffau@gmail.com
+	name = Elodie Duffau
